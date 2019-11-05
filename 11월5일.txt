@@ -10,3 +10,13 @@ genpred = GENDER_LIST[np.argmax(genpredict)]
 #genpred = GENDER_WIKILIST[np.argmax(genpredict)]
 
 
+from fintechlab inport CommonFuction as cf
+currWeek = '201945'
+
+cf.postWeek (currWeek, 20)
+
+cf.preWeek(currWeek,20)
+
+
+
+크롬 드라이버는 크롬 브로우져와 버전이 같아야 함
