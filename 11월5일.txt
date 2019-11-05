@@ -20,3 +20,9 @@ cf.preWeek(currWeek,20)
 
 
 크롬 드라이버는 크롬 브로우져와 버전이 같아야 함
+
+
+
+LSTM : 자기 개발 학습
+
+CNN
