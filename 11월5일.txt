@@ -1,0 +1,12 @@
+모델링 툴 : bizagi
+
+케라스 합슥 모델 사이트
+https://keras.io/applications/
+
+
+##성별
+genpred = GENDER_LIST[np.argmax(genpredict)]
+#wiki 크롭은 반대로 남여 순서 반대
+#genpred = GENDER_WIKILIST[np.argmax(genpredict)]
+
+
